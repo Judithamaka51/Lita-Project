@@ -1,2 +1,3 @@
 # Lita-Project
-This contains a documented work on my Incubator hub class
+## This contains a documented work of my Incubator hub class, Ladies In Tech Africa.
+#### 
