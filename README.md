@@ -9,14 +9,14 @@ This document presents the work carried out during my Incubator Hub class with L
 Several datasets were used during the training, with one of the most notable being the International Breweries.csv. This dataset is not open-source, as it was provided to us by the SQL instructor.
 
 ### Tools Utilized
-- Microsoft Excel for;
-   1. Data Cleaning
-   2. Data Analysis
-   3. Data Visualization
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+   1. Data Cleaning.
+   2. Data Analysis.
+   3. Data Visualization.
       
-- SQU - Structured Query Language for;
-   1. querrying of Ddata
-   2. Creating of Database
+- SQL - Structured Query Language [Download Here](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms)
+   1. querrying of Data.
+   2. Creating of Database.
    
-- GITHUB for;
+- GITHUB [Download Here](https://www.github.com)
    1. Portfolio building.
