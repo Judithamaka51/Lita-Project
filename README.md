@@ -49,4 +49,5 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
+### Data Visualization
 
