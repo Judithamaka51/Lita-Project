@@ -13,8 +13,10 @@ Several datasets were used during the training, with one of the most notable bei
    1. Data Cleaning
    2. Data Analysis
    3. Data Visualization
+      
 - SQU - Structured Query Language for;
    1. querrying of Ddata
    2. Creating of Database
+   
 - GITHUB for;
    1. Portfolio building.
